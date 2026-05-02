@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 ## Birthday Cake Animation – A Creative Birthday Wish
 
 [**Live Site**](https://smurf11k.github.io/bday-cake/)
